@@ -1,15 +1,15 @@
 # iOS
 
 ## Clean-up
-- 🔨 &nbsp; Unused code cleanup tool: [Github](https://github.com/peripheryapp/periphery)
-- 🔨 &nbsp; Unused assets cleanup tool: [Github](https://github.com/tinymind/LSUnusedResources)
-- 🔨 &nbsp; Unused strings cleanup tool: [Github](https://github.com/ijoshsmith/abandoned-strings)
+- 🔨 &nbsp; [Periphery](https://github.com/peripheryapp/periphery): Unused code cleanup tool.
+- 🔨 &nbsp; [LSUnusedResources](https://github.com/tinymind/LSUnusedResources): Unused assets cleanup tool.
+- 🔨 &nbsp; [Abandoned-strings](https://github.com/ijoshsmith/abandoned-strings): Unused strings cleanup tool.
 
 ## Utils
-- 🔨 &nbsp; xcproject comparison tool: [Github](https://github.com/bloomberg/xcdiff)
-- 🔨 &nbsp; App all size icons exporter: [Website](https://makeappicon.com/)
-- 🔨 &nbsp; Model print from json strings: [Website](https://app.quicktype.io/)
-- 🔨 &nbsp; Flowchart diagrams maker: [Website](https://app.diagrams.net/)
+- 🔨 &nbsp; [xcdiff](https://github.com/bloomberg/xcdiff): xcproject comparison tool.
+- 🔨 &nbsp; [MakeAppIcon.com](https://makeappicon.com/): All sizes icons exporter for Apps.
+- 🔨 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings.
+- 🔨 &nbsp; [Diagrams.net](https://app.diagrams.net/): Flowchart diagrams maker.
 
 ## Practices
 - 📝 &nbsp; [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
