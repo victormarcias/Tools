@@ -5,8 +5,8 @@
 - 📱 &nbsp; [Lottie Preview](https://lottiefiles.com/preview): Online viewer for Lottie animation files.
 - 📱 &nbsp; [MakeAppIcon.com](https://makeappicon.com/): All sizes icons exporter for iOS and Android.
 - 📱 &nbsp; [Pulse Network](https://kean.blog/post/pulse?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B493): Network logger within the Device/Simulator.
-- 🔨 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings.
-- 🔨 &nbsp; [xcdiff](https://github.com/bloomberg/xcdiff): xcproject comparison tool.
+- 📱 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings.
+- 📱 &nbsp; [xcdiff](https://github.com/bloomberg/xcdiff): xcproject comparison tool.
 
 ## MacOS 
 - 🖥 &nbsp; [Apple](https://developer.apple.com/download/all/): Apple's old versions of tools.
