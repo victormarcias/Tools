@@ -1,13 +1,27 @@
+## Best Practices
+- 📝 &nbsp; [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- 📝 &nbsp; [12 Factor App](https://12factor.net/)
+
+## Android
+- 🤖 &nbsp; [LeakCanary](https://square.github.io/leakcanary/): Memory leak detection for Android.
+- 🤖 &nbsp; [Chucker](https://github.com/ChuckerTeam/chucker): In-app HTTP inspector for Android.
+- 🤖 &nbsp; [Scrcpy](https://github.com/Genymobile/scrcpy): Mirror and control Android devices from your desktop.
+
 ## iOS
 - 📱 &nbsp; [Periphery](https://github.com/peripheryapp/periphery): Unused code cleanup tool.
 - 📱 &nbsp; [LSUnusedResources](https://github.com/tinymind/LSUnusedResources): Unused assets cleanup tool.
 - 📱 &nbsp; [Abandoned-strings](https://github.com/ijoshsmith/abandoned-strings): Unused strings cleanup tool.
-- 📱 &nbsp; [Lottie Preview](https://lottiefiles.com/preview): Online viewer for Lottie animation files.
-- 📱 &nbsp; [MakeAppIcon.com](https://makeappicon.com/): All sizes icons exporter for iOS and Android.
 - 📱 &nbsp; [Pulse Network](https://kean.blog/post/pulse?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B493): Network logger within the Device/Simulator.
-- 📱 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings.
 - 📱 &nbsp; [xcdiff](https://github.com/bloomberg/xcdiff): xcproject comparison tool.
 - 📱 &nbsp; [Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide): Swift best practices and style guide.
+- 📱 &nbsp; [Apple](https://developer.apple.com/download/all/): Apple's old versions of tools.
+- 📱 &nbsp; [AppCleaner](https://freemacsoft.net/appcleaner/): Remove 100% apps.
+- 📱 &nbsp; [CleanMyMac](https://macpaw.com/cleanmymac/): Remove traces of MacOS software.
+
+## Mobile
+- 📲 &nbsp; [Lottie Preview](https://lottiefiles.com/preview): Online viewer for Lottie animation files.
+- 📲 &nbsp; [MakeAppIcon.com](https://makeappicon.com/): All sizes icons exporter for iOS and Android.
+- 📲 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings, supports Swift, Kotlin and Java.
 
 ## CI/CD
 - ⚙️ &nbsp; [GitHub Actions](https://github.com/features/actions): Native CI/CD for GitHub repos.
@@ -75,18 +89,9 @@
 - 🧹 &nbsp; [ruff](https://docs.astral.sh/ruff/): Fast Python linter and formatter.
 - 🧹 &nbsp; [SonarQube / SonarCloud](https://www.sonarsource.com/): Static code analysis and quality gates.
 
-## MacOS 
-- 🖥 &nbsp; [Apple](https://developer.apple.com/download/all/): Apple's old versions of tools.
-- 🖥 &nbsp; [AppCleaner](https://freemacsoft.net/appcleaner/): Remove 100% apps.
-- 🖥 &nbsp; [CleanMyMac](https://macpaw.com/cleanmymac/): Remove traces of MacOS software.
-
 ## Online Tools
 - 🔨 &nbsp; [CloudConvert](https://cloudconvert.com/): Convert media types.
 - 🔨 &nbsp; [Diagrams.net](https://app.diagrams.net/): Flowchart diagrams maker.
 - 🔨 &nbsp; [JPG2PDF](https://jpg2pdf.com/): Best JPEG to PDF converter.
-
-## Best Practices
-- 📝 &nbsp; [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- 📝 &nbsp; [12 Factor App](https://12factor.net/)
 
 <br />
