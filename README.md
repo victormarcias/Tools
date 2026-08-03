@@ -7,6 +7,7 @@
 - 📱 &nbsp; [Pulse Network](https://kean.blog/post/pulse?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B493): Network logger within the Device/Simulator.
 - 📱 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings.
 - 📱 &nbsp; [xcdiff](https://github.com/bloomberg/xcdiff): xcproject comparison tool.
+- 📱 &nbsp; [Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide): Swift best practices and style guide.
 
 ## CI/CD
 - ⚙️ &nbsp; [GitHub Actions](https://github.com/features/actions): Native CI/CD for GitHub repos.
@@ -86,8 +87,6 @@
 
 ## Best Practices
 - 📝 &nbsp; [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- 📝 &nbsp; [Ray Wenderlich Swift Best Practices](https://github.com/raywenderlich/swift-style-guide)
 - 📝 &nbsp; [12 Factor App](https://12factor.net/)
-- 📝 &nbsp; [SCP: Secure Contain Protect](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf)
 
 <br />
