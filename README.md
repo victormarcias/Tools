@@ -22,6 +22,7 @@
 - 📲 &nbsp; [Lottie Preview](https://lottiefiles.com/preview): Online viewer for Lottie animation files.
 - 📲 &nbsp; [MakeAppIcon.com](https://makeappicon.com/): All sizes icons exporter for iOS and Android.
 - 📲 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings, supports Swift, Kotlin and Java.
+- 📲 &nbsp; [FreePhoneNum](https://freephonenum.com/): Free temporary phone numbers for SMS/OTP testing.
 
 ## Testing & Coverage
 - ✅ &nbsp; [Coveralls](https://coveralls.io/): Test coverage reporting and tracking.
@@ -39,6 +40,7 @@
 - 🏗️ &nbsp; [Pulumi](https://www.pulumi.com/): Infrastructure as code using real programming languages.
 
 ## Cloud & Hosting
+- ☁️ &nbsp; [Heroku](https://www.heroku.com/): Platform-as-a-service for deploying apps.
 - ☁️ &nbsp; [Linode](https://www.linode.com/): Cloud hosting and VPS provider.
 - ☁️ &nbsp; [Namecheap](https://www.namecheap.com/): Domain registration and hosting.
 
