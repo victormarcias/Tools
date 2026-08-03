@@ -23,39 +23,28 @@
 - 📲 &nbsp; [MakeAppIcon.com](https://makeappicon.com/): All sizes icons exporter for iOS and Android.
 - 📲 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings, supports Swift, Kotlin and Java.
 
-## CI/CD
-- ⚙️ &nbsp; [GitHub Actions](https://github.com/features/actions): Native CI/CD for GitHub repos.
-- ⚙️ &nbsp; [CircleCI](https://circleci.com/): CI/CD pipeline automation.
-- ⚙️ &nbsp; [GitLab CI](https://docs.gitlab.com/ee/ci/): CI/CD built into GitLab.
-- ⚙️ &nbsp; [Buildkite](https://buildkite.com/): Hybrid CI/CD runner platform.
-
 ## Testing & Coverage
 - ✅ &nbsp; [Coveralls](https://coveralls.io/): Test coverage reporting and tracking.
 - ✅ &nbsp; [Codecov](https://codecov.io/): Test coverage reporting and tracking.
 - ✅ &nbsp; [k6](https://k6.io/): Load and performance testing.
 - ✅ &nbsp; [Bruno](https://www.usebruno.com/): Offline-first API testing client.
-- ✅ &nbsp; [Postman](https://www.postman.com/): API client and testing tool.
 
 ## Observability
 - 📊 &nbsp; [Sentry](https://sentry.io/): Production error tracking.
-- 📊 &nbsp; [Datadog](https://www.datadoghq.com/): Monitoring and observability platform.
 - 📊 &nbsp; [Grafana](https://grafana.com/): Metrics dashboards, usually paired with Prometheus.
 - 📊 &nbsp; [Prometheus](https://prometheus.io/): Metrics collection and alerting.
 - 📊 &nbsp; [Better Stack](https://betterstack.com/): Logs and uptime monitoring.
 
 ## Infrastructure as Code
-- 🏗️ &nbsp; [Terraform](https://www.terraform.io/): Infrastructure as code.
 - 🏗️ &nbsp; [Pulumi](https://www.pulumi.com/): Infrastructure as code using real programming languages.
 
 ## Cloud & Hosting
-- ☁️ &nbsp; [Google Cloud](https://cloud.google.com/): Cloud computing platform.
 - ☁️ &nbsp; [Linode](https://www.linode.com/): Cloud hosting and VPS provider.
 - ☁️ &nbsp; [Namecheap](https://www.namecheap.com/): Domain registration and hosting.
 
 ## Containers & Kubernetes
 - 🐳 &nbsp; [k9s](https://k9scli.io/): Terminal UI for Kubernetes clusters.
 - 🐳 &nbsp; [Lens](https://k8slens.dev/): Kubernetes IDE.
-- 🐳 &nbsp; [Docker Hub](https://hub.docker.com/): Container image registry.
 - 🐳 &nbsp; [GHCR](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry): GitHub's container registry.
 
 ## Databases
@@ -77,7 +66,6 @@
 - 🔑 &nbsp; [HashiCorp Vault](https://www.vaultproject.io/): Secrets management and encryption.
 
 ## API Documentation
-- 📄 &nbsp; [Swagger / OpenAPI](https://swagger.io/): API documentation and design.
 - 📄 &nbsp; [Redoc](https://redocly.com/redoc): OpenAPI documentation renderer.
 - 📄 &nbsp; [Stoplight](https://stoplight.io/): API design and documentation platform.
 
