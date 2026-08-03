@@ -8,6 +8,21 @@
 - 📱 &nbsp; [Quicktype.io](https://app.quicktype.io/): Model print from json strings.
 - 📱 &nbsp; [xcdiff](https://github.com/bloomberg/xcdiff): xcproject comparison tool.
 
+## DevOps
+- ⚙️ &nbsp; [CircleCI](https://circleci.com/): CI/CD pipeline automation.
+- ⚙️ &nbsp; [GitHub Actions](https://github.com/features/actions): Native CI/CD for GitHub repos.
+- ⚙️ &nbsp; [Coveralls](https://coveralls.io/): Test coverage reporting and tracking.
+- ⚙️ &nbsp; [Codecov](https://codecov.io/): Test coverage reporting and tracking.
+- ⚙️ &nbsp; [SonarCloud](https://sonarcloud.io/): Static code analysis and quality gates.
+- ⚙️ &nbsp; [Docker Hub](https://hub.docker.com/): Container image registry.
+- ⚙️ &nbsp; [Terraform](https://www.terraform.io/): Infrastructure as code.
+- ⚙️ &nbsp; [ngrok](https://ngrok.com/): Expose localhost to the internet for testing webhooks/backends.
+
+## Backend
+- 🗄️ &nbsp; [Postman](https://www.postman.com/): API client and testing tool.
+- 🗄️ &nbsp; [Swagger / OpenAPI](https://swagger.io/): API documentation and design.
+- 🗄️ &nbsp; [Sentry](https://sentry.io/): Production error monitoring and tracking.
+
 ## MacOS 
 - 🖥 &nbsp; [Apple](https://developer.apple.com/download/all/): Apple's old versions of tools.
 - 🖥 &nbsp; [AppCleaner](https://freemacsoft.net/appcleaner/): Remove 100% apps.
