@@ -1,6 +1,10 @@
 ## Best Practices
 - 📝 &nbsp; [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - 📝 &nbsp; [12 Factor App](https://12factor.net/)
+- 📝 &nbsp; [Roadmap.sh](https://roadmap.sh/): Community-driven learning roadmaps for developers.
+
+## AI Coding
+- 🧠 &nbsp; [Dot Cursor Rules](https://dotcursorrules.com/): Community `.cursorrules` templates by language/framework.
 
 ## Android
 - 🤖 &nbsp; [LeakCanary](https://square.github.io/leakcanary/): Memory leak detection for Android.
