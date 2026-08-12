@@ -3,6 +3,10 @@
 - 📝 &nbsp; [12 Factor App](https://12factor.net/)
 - 📝 &nbsp; [Roadmap.sh](https://roadmap.sh/): Community-driven learning roadmaps for developers.
 
+## Tech Trends
+- 📈 &nbsp; [Google Trends](https://trends.google.com/): Search interest over time for any term, including tech/frameworks.
+- 📈 &nbsp; [Stack Overflow Trends](https://insights.stackoverflow.com/trends): Tag popularity over time on Stack Overflow questions.
+
 ## AI Coding
 - 🧠 &nbsp; [Dot Cursor Rules](https://dotcursorrules.com/): Community `.cursorrules` templates by language/framework.
 
