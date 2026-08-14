@@ -88,10 +88,11 @@
 - 🧹 &nbsp; [SonarQube / SonarCloud](https://www.sonarsource.com/): Static code analysis and quality gates.
 
 ## Web Debugging
-- 🐛 &nbsp; [Wappalyzer](https://www.wappalyzer.com/): Detects the tech stack behind any website.
-- 🐛 &nbsp; [WAVE](https://wave.webaim.org/): Web accessibility (a11y) evaluation tool.
-- 🐛 &nbsp; [WhatFont](https://www.whatfont.com/): Identifies the font used by any element on a page.
+- 🐛 &nbsp; [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pr/gppongmhjkpfnbhagpmjfkannfbllamg): Detects the tech stack behind any website.
+- 🐛 &nbsp; [WAVE](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh): Web accessibility (a11y) evaluation tool.
+- 🐛 &nbsp; [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Identifies the font used by any element on a page.
 - 🐛 &nbsp; [cubic-bezier.com](https://cubic-bezier.com/): Visual editor for CSS animation easing curves.
+- 🐛 &nbsp; [Polypane Resources](https://polypane.app/resources/): Collection of free web dev tools (specificity calculator, and more).
 
 ## Online Tools
 - 🔨 &nbsp; [CloudConvert](https://cloudconvert.com/): Convert media types.
