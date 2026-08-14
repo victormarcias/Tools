@@ -87,6 +87,12 @@
 - 🧹 &nbsp; [ruff](https://docs.astral.sh/ruff/): Fast Python linter and formatter.
 - 🧹 &nbsp; [SonarQube / SonarCloud](https://www.sonarsource.com/): Static code analysis and quality gates.
 
+## Web Debugging
+- 🐛 &nbsp; [Wappalyzer](https://www.wappalyzer.com/): Detects the tech stack behind any website.
+- 🐛 &nbsp; [WAVE](https://wave.webaim.org/): Web accessibility (a11y) evaluation tool.
+- 🐛 &nbsp; [WhatFont](https://www.whatfont.com/): Identifies the font used by any element on a page.
+- 🐛 &nbsp; [cubic-bezier.com](https://cubic-bezier.com/): Visual editor for CSS animation easing curves.
+
 ## Online Tools
 - 🔨 &nbsp; [CloudConvert](https://cloudconvert.com/): Convert media types.
 - 🔨 &nbsp; [Diagrams.net](https://app.diagrams.net/): Flowchart diagrams maker.
