@@ -1,6 +1,7 @@
 ## AI
 - 🧠 &nbsp; [Dot Cursor Rules](https://dotcursorrules.com/): Community `.cursorrules` templates by language/framework.
 - 🧠 &nbsp; [There's An AI For That](https://theresanaiforthat.com/): Directory of AI tools by use case.
+- 🧠 &nbsp; [Hugging Face](https://huggingface.co/): Community hub for free AI models, datasets and demos.
 
 ## Android
 - 🤖 &nbsp; [LeakCanary](https://square.github.io/leakcanary/): Memory leak detection for Android.
