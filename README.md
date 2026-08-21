@@ -32,6 +32,7 @@
 - 🗄️ &nbsp; [DBeaver](https://dbeaver.io/): Universal database tool.
 - 🗄️ &nbsp; [pgAdmin](https://www.pgadmin.org/): PostgreSQL administration tool.
 - 🗄️ &nbsp; [Neon](https://neon.tech/): Serverless Postgres database.
+- 🗄️ &nbsp; [DB Fiddle](https://www.db-fiddle.com/): Online SQL sandbox to test queries across multiple databases.
 
 ## Email
 - 📧 &nbsp; [Mailtrap](https://mailtrap.io/): Email testing and delivery platform.
